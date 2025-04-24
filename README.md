@@ -13,3 +13,5 @@ after that we need to add virualbox guest additions on the splunk instance
 
 
 
+<img width="1470" alt="Screenshot 2025-04-24 at 2 29 22 PM" src="https://github.com/user-attachments/assets/fc298564-99eb-4097-bd98-eed6f8e43c43" />
+<img width="1468" alt="Screenshot 2025-04-24 at 2 29 41 PM" src="https://github.com/user-attachments/assets/12335ea4-8399-4469-ab2f-83756582f8cb" />
