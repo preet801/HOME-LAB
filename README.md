@@ -7,5 +7,9 @@ create a splunk account and login to it
 
 By clicking on Products on your splunk account , select free trials and downloads and then select splunk enterprise and after that you select  linux and .deb file and hit download to download the required package for splunk on your host machine.
 ![image](https://github.com/user-attachments/assets/52214145-5e36-4996-ba0e-2b825687ef5b)
+after that we need to add virualbox guest additions on the splunk instance
+
+![image](https://github.com/user-attachments/assets/18515dcf-b777-4c04-827e-026e10c39f3b)
+
 
 
